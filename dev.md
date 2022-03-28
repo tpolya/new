@@ -1,2 +1,1 @@
-smth
-new information
+new smth
